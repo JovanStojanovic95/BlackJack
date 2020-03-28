@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/table.jpg");
+    background-color: #cccccc;
+}
+
+img {
+    height: 150px;
+    width: 50px;
+}
